@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="ms_StopOrSuspend" class="col-md-4 control-label required">Stop</label>
+    <div class="col-md-8">
+        <select class="form-control" id="ms_StopOrSuspend" name="ms_StopOrSuspend" data-bind="options: EmployeeTypeList, optionsText:'Name',optionsValue: 'Id',  value: formData.ms_StopOrSuspend"></select>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sss-select</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

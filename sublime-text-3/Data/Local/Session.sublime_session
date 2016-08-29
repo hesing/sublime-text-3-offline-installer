@@ -1,0 +1,3036 @@
+{
+	"folder_history":
+	[
+		"/D/test/angular-es6-example-master",
+		"/D/hk/GITHUB/ngdemo",
+		"/D/hk/GITHUB/sdmplus",
+		"/D/hk/GITHUB/ngapp-template",
+		"/D/test/ngdemo",
+		"/D/test/conduit-angularjs-final-master",
+		"/D/test/productionready-node-api-master",
+		"/D/test/angular-es6-sample-master",
+		"/D/gti/DEV/Source/GTI.Apps/src",
+		"/D/test/malihu-custom-scrollbar-plugin-3.1.5",
+		"/D/test/ng2demo",
+		"/D/test/ultimate-angular-master-src-master",
+		"/D/test/ng1demo",
+		"/D/test/crossover-assignment-master",
+		"/D/gti/DEV/GTI.UI/Audit",
+		"/D/gti/DEV/GTI.UI/Audit/scss",
+		"/D/gti/GTI.UI/Audit",
+		"/C/Users/hesing/Downloads/gulp-practice",
+		"/D/jsdemo",
+		"/D/bsdemo",
+		"/D/uidemo",
+		"/D/test/myapp",
+		"/D/test/appdemo1",
+		"/D/test/apidemo",
+		"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev",
+		"/D/hk/git-basics",
+		"/D/test1/gitdemo",
+		"/D/home/manuscript",
+		"/C/Users/hesing/Downloads/angular2-seed-master",
+		"/D/sdmng2",
+		"/D/hk/GITHUB/ng2app",
+		"/D/test1/angular2-seed-master",
+		"/D/test1/angular2-force-master",
+		"/D/test1/ng2test1",
+		"/D/hk/GITHUB/sdmapi",
+		"/D/hk/bootstrap4-step-by-step",
+		"/D/hk/learn-angular",
+		"/D/test1/systemjs-starter",
+		"/D/hk/GITHUB/typescript-starter",
+		"/D/hk/es6-in-depth",
+		"/D/hk/GITHUB/es6-in-depth",
+		"/D/hk/GITHUB/project-starters",
+		"/D/hk/GITHUB/ww",
+		"/C/Users/hesing/Downloads/angular2-seed-sass-master",
+		"/D/test/angular2-seed-master/node_modules/ngapp-template/scss",
+		"/D/sdm-docs/latestvisios/SDMPlus_Visio_ModernUI_Draft04182016_files",
+		"/D/test/angular2-seed-master",
+		"/D/hk/GITHUB/angular2-demo",
+		"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public",
+		"/D/hk/GITHUB/angular2-demo/public/src/components",
+		"/C/Users/hesing/Downloads/manuscript",
+		"/D/hk/angular2-step-by-step",
+		"/D/test/angular2-starter-master",
+		"/D/manuscript/first_app/hello-world",
+		"/C/Users/hesing/Downloads/angular-with-gulp-modular-angular-gulp",
+		"/D/hk/GITHUB/reusable-components",
+		"/D/test/ng2-quickstart",
+		"/D/test1/ng2-projects",
+		"/D/test/ng2-projects",
+		"/D/test/hk-theme",
+		"/D/test1/conduit-angularjs-final-master",
+		"/D/test1/angular-es6-starter-master",
+		"/D/home/new/latest/Angular 2 with TypeScript for Beginners The Pragmatic Guide/07_-_Building_Forms_with_Complex_Validation/76.2_-_Solution_-_Model-driven_Forms/Solution - Model-driven Forms",
+		"/D/hk/ng-animation",
+		"/D/test1/ng2test",
+		"/D/test/angular2-seed-sass-master",
+		"/D/test/ng2-bootstrap-sbadmin",
+		"/D/test/angular2-seed",
+		"/D/sdmsprint2/SDMPlus/SDMPlus.Service/sdmuibuild",
+		"/D/test/angular-clipboard-master",
+		"/D/test/angular-with-gulp",
+		"/C/Users/hesing/Downloads/alferov-angular-file-saver-638e1d7",
+		"/D/test/angular2-seed/dist",
+		"/C/Users/hesing/Desktop/langdemo",
+		"/D/hk/angular-ui-router",
+		"/D/hk/GITHUB/dev",
+		"/D/test1/ngprojects",
+		"/D/hk/es6-step-by-step",
+		"/D/my-rollup-project",
+		"/D/hk/es6-demo",
+		"/C/Users/hesing/Downloads/jQuery.dotdotdot-master",
+		"/C/Users/hesing/Downloads/css-ellipses",
+		"/D/home/new/latest/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_06/06_final",
+		"/C/Users/hesing/Downloads/ThumbnailGridExpandingPreview",
+		"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/common/scrollbar",
+		"/C/Users/hesing/Desktop/sdm visio",
+		"/D/test1/flexbox",
+		"/D/test/employee-scheduling-ui",
+		"/D/sdmplus",
+		"/D/test1/tsproject",
+		"/D/test1/forms",
+		"/D/hk/GITHUB/sdmplus/UIDev",
+		"/D/ng2demo",
+		"/D/SDMPlus_Main/SDMPlus/SDMPlus.Service/UIDev",
+		"/D/test/es6-angularjs-master",
+		"/D/test/ui-select-master",
+		"/D/SDMPlus_Main/SDMPlus/SDMPlus.Service/sdmuibuild",
+		"/D/backup/sdm 8 March 2016",
+		"/D/test/NG6-starter-jspm",
+		"/D/SDMPlusRewrite",
+		"/D/test/angular-with-gulp-master",
+		"/D/test/gulp-babel-es6-starter-master",
+		"/D/test/jspmdemo",
+		"/D/test/Angular-ES6-JSPM-Gulp-master",
+		"/D/test/jspm-systemjs-babel-seed",
+		"/D/mygitdemo/git-demo",
+		"/D/hk/GITHUB/hkapi",
+		"/D/test/ngappdemo",
+		"/D/work/demo",
+		"/D/test/ww-sass",
+		"/D/ww-latest/WorldWide/Source/VirtuosoWW-dev/Microsoft.VirtuosoWW/UI Dev/scss",
+		"/D/test/project-starters-ng2-starter",
+		"/D/test/ngmaterialdemo1",
+		"/D/ww-latest/WorldWide/Source/VirtuosoWW-dev/Microsoft.VirtuosoWW/UI Dev",
+		"/D/gulp-sass-demo",
+		"/D/sdmtest/angular-systemjs-seed-master",
+		"/D/sdmtest/gulp-babel-es6-starter-master",
+		"/D/ww-latest/WorldWide/Source/VirtuosoWW-dev/Microsoft.VirtuosoWW/Microsoft.VirtuosoWW.Web/frontend",
+		"/D/test/reusable-components-modular-template",
+		"/D/jquery.labelFocus",
+		"/D/test/mdl-template-android-dot-com",
+		"/D/test/mdl-template-dashboard",
+		"/D/test/mdlproject",
+		"/D/test/angular-2-beta-boilerplate",
+		"/D/test/ng2",
+		"/D/test/manuscript",
+		"/D/test/uxm",
+		"/D/hk/GITHUB/ngapp"
+	],
+	"last_version": 3114,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 673.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"list-st",
+						"list-style-type"
+					],
+					[
+						"bs3-tem",
+						"bs3-template:starter	bs3-template.starter"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"bs3-lab",
+						"bs3-label:info	bs3-label-info"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"In",
+						"Input	alias"
+					],
+					[
+						"const",
+						"constructor	keyword"
+					],
+					[
+						"bs3-form",
+						"bs3-form	bs3-form"
+					],
+					[
+						"inn",
+						"innerWidth	property"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"bs3-n",
+						"bs3-navbar:form	bs3-navbar-form"
+					],
+					[
+						"bs3-for",
+						"bs3-form	bs3-form"
+					],
+					[
+						"ng",
+						"ng2	ng2"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"fle",
+						"flex-direction"
+					],
+					[
+						"fl",
+						"flex-start"
+					],
+					[
+						"flex",
+						"flex-basis"
+					],
+					[
+						"ro",
+						"row-reverse"
+					],
+					[
+						"ROUT",
+						"ROUTER_PROVIDERS	alias"
+					],
+					[
+						"Con",
+						"ContactComponent	alias"
+					],
+					[
+						"Lo",
+						"LoginComponent	alias"
+					],
+					[
+						"cas",
+						"snakeCase	method"
+					],
+					[
+						"con",
+						"Console	interface"
+					],
+					[
+						"nam",
+						"name	parameter"
+					],
+					[
+						"fi",
+						"firstName	let"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"U",
+						"UserCtrl	class"
+					],
+					[
+						"Use",
+						"UserSvc	module"
+					],
+					[
+						"m",
+						"module	method"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"D",
+						"disabled	Attr"
+					],
+					[
+						"Eve",
+						"EventEmitter	alias"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"Com",
+						"Component	alias"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"response",
+						"responseBody"
+					],
+					[
+						"sayi",
+						"saying"
+					],
+					[
+						"sayin",
+						"sayings"
+					],
+					[
+						"wait",
+						"waitTime"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"margin-",
+						"margin-top"
+					],
+					[
+						"bs3-pan",
+						"bs3-panel:info	bs3-panel-info"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"remove",
+						"angular: removeClass"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"Per",
+						"Person	class"
+					],
+					[
+						"per",
+						"personName	parameter"
+					],
+					[
+						"prin",
+						"printMe	function"
+					],
+					[
+						"fade",
+						"fadeOut"
+					],
+					[
+						"fad",
+						"fadeOut"
+					],
+					[
+						"bs3-li",
+						"bs3-list-group:linked	bs3-list-group-linked"
+					],
+					[
+						"bs3-in",
+						"bs3-input:radio	bs3-input-radio"
+					],
+					[
+						"CONST",
+						"constructor	keyword"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"Fo",
+						"FORM_DIRECTIVES	alias"
+					],
+					[
+						"FORM",
+						"FORM_DIRECTIVES	alias"
+					],
+					[
+						"FOR",
+						"FORM_DIRECTIVES	alias"
+					],
+					[
+						"bs3-fo",
+						"bs3-form:inline	bs3-form-inline"
+					],
+					[
+						"my",
+						"mySkill	property"
+					],
+					[
+						"bs3-nav",
+						"bs3-navbar	bs3-navbar"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"bs3-ra",
+						"bs3-input:radio	bs3-input-radio"
+					],
+					[
+						"sourcem",
+						"sourcemaps"
+					],
+					[
+						"sty",
+						"stylesheet"
+					],
+					[
+						"bs3-aler",
+						"bs3-alert:info	bs3-alert-info"
+					],
+					[
+						"bs3-tab",
+						"bs3-table	bs3-table"
+					],
+					[
+						"bs3-input-g",
+						"bs3-input-group-addon	bs3-input-group-addon"
+					],
+					[
+						"bs3-ingroup",
+						"bs3-input-group	bs3-input-group"
+					],
+					[
+						"sss-dat",
+						"sss-date	sss-date"
+					],
+					[
+						"Book",
+						"BookService	alias"
+					],
+					[
+						"imp",
+						"import	keyword"
+					],
+					[
+						"Route",
+						"Router"
+					],
+					[
+						"Rou",
+						"Router"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"sig",
+						"signedIn"
+					],
+					[
+						"user",
+						"userObj"
+					],
+					[
+						"User",
+						"UserRouter"
+					],
+					[
+						"au",
+						"authorRouter"
+					],
+					[
+						"boo",
+						"bookRouter"
+					],
+					[
+						"member",
+						"memberName"
+					],
+					[
+						"book",
+						"books"
+					],
+					[
+						"for",
+						"formData"
+					],
+					[
+						"bs3-bu",
+						"bs3-button:info	bs3-button-info"
+					],
+					[
+						"fir",
+						"firebase"
+					],
+					[
+						"component",
+						"componentWillReceiveProps	Life Cycle Method"
+					],
+					[
+						"cho",
+						"choices"
+					],
+					[
+						"socket",
+						"sockets"
+					],
+					[
+						"mem",
+						"member"
+					],
+					[
+						"bs3-bad",
+						"bs3-badge	bs3-badge"
+					],
+					[
+						"bs3-te",
+						"bs3-textarea	bs3-textarea"
+					],
+					[
+						"sss",
+						"sss-input	sss-input"
+					],
+					[
+						"dropdown",
+						"dropdown-menu"
+					],
+					[
+						"Hell",
+						"HelloWorld"
+					],
+					[
+						"web",
+						"webpack-dev-server"
+					],
+					[
+						"de",
+						"devConfig"
+					],
+					[
+						"NEW",
+						"newValue"
+					],
+					[
+						"new",
+						"newValue"
+					],
+					[
+						"bs3-la",
+						"bs3-label:info	bs3-label-info"
+					],
+					[
+						"bs3-ta",
+						"bs3-table:responsive	bs3-table-responsive"
+					],
+					[
+						"bs3-pag",
+						"bs3-pagination	bs3-pagination"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"alert",
+						"alertTimeout"
+					],
+					[
+						"aler",
+						"alert"
+					],
+					[
+						"face",
+						"facebook"
+					],
+					[
+						"ti",
+						"timesTwo"
+					],
+					[
+						"nu",
+						"number	keyword"
+					],
+					[
+						"Pe",
+						"Person	interface"
+					],
+					[
+						"wi",
+						"wishList"
+					],
+					[
+						"wis",
+						"wishInput"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"si",
+						"simpleLogin"
+					],
+					[
+						"aut",
+						"authWithPassword"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"re",
+						"fbRef"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"rou",
+						"routeString"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 469.0,
+				"last_filter": "html",
+				"selected_items":
+				[
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"fet",
+						"Fetch: File"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"jo",
+						"Set Syntax: JSON"
+					],
+					[
+						"jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"encodi",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"ty",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"emm",
+						"Set Syntax: Emmet"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"beauti",
+						"HTMLBeautify"
+					],
+					[
+						"au",
+						"Autoprefix CSS"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 176.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/jsdemo/js/main.js",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - Topics New/MSEngageandDeliveryExcellenceComplianceReporting.aspx",
+				"/D/jsdemo/index.html",
+				"/D/bsdemo/index.html",
+				"/D/jsdemo/README.md",
+				"/D/bsdemo/css/main.css",
+				"/D/uidemo/index.html",
+				"/D/uidemo/css/main.css",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GatherAnalyzePrioritizeRequirementsandFeatures.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldCustomerKickoffMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GenerateTheProgramBudget.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GenerateBenefitsRealizationPlan.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gather Intelligence.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway5Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway4Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway3Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway2Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway1Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldFinalProgramBoardMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldDeliveryManagementInitiationCompleteCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Hold Kick-Off Meeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Hold Discovery Call.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Harvest IP.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HandOverProjectArtifacts.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HandOverOutstandingRisks.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GetComplexDealReviewedApproved.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GetComplexDealApprovedbyQA.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GetApprovalsforNon-standardTerms.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldScopeCompleteCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldSalestoDeliveryHandoffMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldReleaseReadinessApprovedCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldProjectPlanApprovedCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldProgramPlanningWorkshops.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldInternalKickoffMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldDeploymentCompleteCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldFinalMSInternalTeamMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldEngagementLevelCOSDiscussion.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldSteeringCommitteeMeetings.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_TrackStatus.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_ImplementBenefitsRealizationPlanActivities.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_IdentifySuppliersToTheProgram.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_IdentifyRisks.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Identify-InitiateProgramProcesses.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_IdentifyInitialRisks.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Identify-CaptureRisksIssuesAssumptions.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Identify-CaptureRisks.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Identify-CaptureIssues.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldVisionScopeApprovedCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_CaptureLessonsLearned-MININT-3HN7D42.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_BuildSolution-MININT-3HN7D42.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_AuthorizeContract.MININT-3HN7D42.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ReviewWindowsTechnicalArchitecture.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ReviewNetworkandStorageArchitecture.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ReviewCodeAndTestScripts.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_PrototypeSecurityDesign.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_PrototypePresentationDesign.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_PrototypeETLDesign.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_PrototypeDimensionalDesign.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_PrototypeCubeDesign.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_PrioritizeBusinessRequirementswithSponsors.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_LoadSampleData.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_IdentifySourceSystemsandIntegrationPoints.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_IdentifyandPrioritizeSubjectAreasfromEnterpriseRequirements.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DocumentRequirements.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DevelopProjectEstimates.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DevelopInitialProjectSchedule.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DetermineInitialProjectResources.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DesignModificationstoTechnicalInfrastructure.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DesignModificationstoNetworkandStorage.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_DefineInitialScopeWBS.aspx",
+				"/D/test/myapp/package.json",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ConductUsageTestingofPresentationandReports.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ConductUsageTestingofOLAPandDatabases.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ConductUsageTestingofETLandIntegration.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_ConductSecurityCodeReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_BuildPresentationComponentsReports.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_BuildETLComponents.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_BuildDimensionalModel.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_SetUpSolutionApproachVisionPlan.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/subAct_BuildCubes.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_VerifyMasterAgreement.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_SetupMSInternalTeam.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/css/sdm-build.css",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/css/customStyles.css",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_ValidateSkillsRequirements.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_ValidateProgramExecutionPlan.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_ValidateProject-WorkStreamClosure.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_SetUpCampusWorkspace.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_ValidateProductionSolutionPerformance.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_UpdateConfigurationDocumentation.aspx",
+				"/D/test/appdemo1/common/models/author.js",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_UpdateandCloseOutCOS.aspx",
+				"/D/test/appdemo1/package.json",
+				"/D/test/appdemo1/server/datasources.json",
+				"/D/test/appdemo1/server/model-config.json",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Review-ReviseProgramBoard.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Review-ReviseMSInternalTeam.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_TransitiontoOperations.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_TerminateEngagementorProject.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_TestSecurityThreats.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_TeamCommunicationPlanning.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_SetupProgramBoard.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Submit Proposal.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_AnalyzeSupplierPerformance.aspx",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/Tahir_pages.md",
+				"/C/Program Files (x86)/Mozilla Firefox/grvopen",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/TAhir_pages.md",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/js/controllers/UserPreferenceCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/js/controllers/ApplicationCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/topics/TopicsCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/templates/TemplatesCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/TemplateDetail/TemplateDetailCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/template-component/templateComponent.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/search/SearchCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/methodology/MethodologyCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/favorites/FavoritesCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/ActivityDetail/ActivityDetailCtrl.js",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/activities/ActivitiesCtrl.js",
+				"/D/test/apidemo/server/model-config.json",
+				"/D/test/apidemo/.yo-rc.json",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/activities/activities.html",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/methodology/methodology.html",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/templates/templates.html",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/templates/templates-list.html",
+				"/C/Users/hesing/Desktop/test.html",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/templates/templates-grid.html",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/search/search-list.html",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/search/search-grid.html"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\hk\\GITHUB\\sdmplus\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\home\\manuscript\\code\\conversion\\hybrid",
+					"D:\\hk\\GITHUB\\ng2app\\tools",
+					"D:\\hk\\GITHUB\\ng2app\\tools\\tasks",
+					"D:\\test1\\angular2-seed-master",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\hk\\GITHUB\\ng2app\\tools",
+					"D:\\hk\\GITHUB\\ng2app\\tools\\tasks",
+					"D:\\hk\\GITHUB\\ng2app\\tools",
+					"D:\\hk\\GITHUB\\ng2app\\src",
+					"D:\\test\\angular2-seed-master",
+					"D:\\sdm-docs\\latestvisios\\SDMPlus_Visio_ModernUI_Draft04182016_files",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\hk\\GITHUB\\sdmapi",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\test\\hk-theme",
+					"D:\\test\\hk-theme\\bootstrap-scss",
+					"D:\\test\\hk-theme",
+					"D:\\test\\hk-theme\\bootstrap-scss",
+					"D:\\test1\\ng2-projects\\src",
+					"D:\\test1\\ng2-projects\\tools",
+					"D:\\test1\\ng2-projects",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\test\\angular2-seed-sass-master\\tools",
+					"D:\\test\\angular2-seed-sass-master\\src",
+					"D:\\test\\angular2-seed-sass-master",
+					"D:\\test\\angular2-seed-sass-master\\src",
+					"D:\\test\\angular2-seed-sass-master",
+					"D:\\test\\angular2-seed-sass-master\\tools",
+					"D:\\test\\angular2-seed-sass-master",
+					"D:\\test\\angular2-seed-sass-master\\tools",
+					"D:\\test\\angular2-seed-sass-master\\src",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public\\scss",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public\\components\\common\\scrollbar",
+					"D:\\test\\employee-scheduling-ui\\src",
+					"D:\\hk\\GITHUB\\sdmplus\\UIDev\\public\\scss",
+					"D:\\hk\\GITHUB\\sdmplus",
+					"D:\\test\\employee-scheduling-ui\\src",
+					"D:\\SDMPlus_Main\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\SDMPlus_Main\\SDMPlus\\SDMPlus.Service\\UIDev\\public\\js",
+					"D:\\test\\NG6-starter-jspm\\client\\app",
+					"D:\\test\\jspmdemo\\gulp",
+					"D:\\test\\employee-scheduling-ui\\gulp",
+					"D:\\ww-latest\\WorldWide\\Source\\VirtuosoWW-dev\\Microsoft.VirtuosoWW\\Microsoft.VirtuosoWW.Web\\frontend\\node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap",
+					"D:\\ww-latest\\WorldWide\\Source\\VirtuosoWW-dev\\Microsoft.VirtuosoWW\\Microsoft.VirtuosoWW.Web\\frontend\\src",
+					"C:\\Users\\hesing\\Downloads\\bootstrap-sass-3.3.6.tar\\bootstrap-sass-3.3.6\\bootstrap-sass-3.3.6\\assets",
+					"C:\\Users\\hesing\\Downloads\\bootstrap-sass-3.3.6.tar\\bootstrap-sass-3.3.6\\bootstrap-sass-3.3.6\\assets\\stylesheets\\bootstrap",
+					"D:\\test\\angular-2-samples-master",
+					"D:\\hk\\pollingapp",
+					"D:\\projects\\Simplify\\Source\\Microsoft.Services.Tools.SimplifyWeb\\Microsoft.Services.Tools.SimplifyWebPortal\\Controllers",
+					"D:\\projects\\Simplify\\Source\\Microsoft.Services.Tools.SimplifyWeb\\Microsoft.Services.Tools.SimplifyWebPortal\\Scripts\\js",
+					"D:\\test\\jobsapp",
+					"D:\\test\\jobsapp\\app",
+					"C:\\Users\\hesing\\Downloads\\mongo-express-master",
+					"D:\\test\\webpack\\client\\js",
+					"D:\\projects\\ng-framework\\public\\ext-modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gti",
+					"previousElementSibling",
+					"form-group1",
+					"col-lg-4",
+					"col-md-6 col-sm-6 ",
+					"col-sm-6",
+					"col-md-6",
+					"@media screen and (min-width: 768px){\n  p{\n  	color: green;\n  }\n}",
+					"·         ",
+					"     ",
+					"·         ",
+					"     ",
+					"·         ",
+					"       ",
+					"·         ",
+					"Check",
+					"Check th",
+					"     ",
+					"·         ",
+					"     ",
+					"       ",
+					"         ",
+					"·         ",
+					"     ",
+					"Ensure ",
+					"       ",
+					"         ",
+					"     ",
+					"       ",
+					"·         ",
+					"       ",
+					"·         ",
+					"	<a href=\"http://ng-training.herokuapp.com/#/css/selectors\" title=\"my link\">\n		My Link\n	</a>\n",
+					"type=\"square\"",
+					"type=\"circle\"",
+					"<li>",
+					"·",
+					" ·",
+					"<span id=\"span_a54c_30\">·</span>",
+					"·         ",
+					" ·         ",
+					"·         ",
+					"h3",
+					"Risk",
+					"Engagement Manager",
+					"·         ",
+					"·        ",
+					"·         ",
+					"Engagement Manager",
+					"SQA ",
+					"  <p class=MsoNormal id=\"p_4780_41\"><span id=\"span_4780_88\">&nbsp;</span></p>\n",
+					"·         ",
+					"·        ",
+					"·         ",
+					"Engagement Manager",
+					"CCM",
+					"·         ",
+					"Engagement Manager",
+					"type=\"square\"",
+					"Consider",
+					"Consider ",
+					"·         ",
+					"type=disc",
+					"·         ",
+					"type=disc",
+					"type=\"square\"",
+					"h1",
+					"Programs ",
+					"type=disc",
+					"<span lang=EN-GB id=\"span_5009_33\">è</span>",
+					"Initiation",
+					"h3",
+					"type=\"square\"",
+					"type=disc",
+					"Resource dependencies exist even whe",
+					"Resource dependencies exist even",
+					"type=\"square\"",
+					"rc.3",
+					"·         ",
+					"Vulnerability",
+					"type=\"square\"",
+					"margin-to",
+					"type=square",
+					"Consolidate the",
+					"·         ",
+					" Solution Delivery",
+					"Validate the",
+					"Review th",
+					"\n",
+					"Program Brief",
+					"The contents of the Program Execution",
+					"type=\"square\"",
+					"mydb",
+					"Identify ",
+					"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+					"Progra",
+					"wrapper",
+					"type=\"text/css\"",
+					"alerting",
+					"alerting.addAlert",
+					"alerting",
+					"Add to favori",
+					"Roles Filter",
+					"trackDownload",
+					"updateVisioDetail",
+					"openModal",
+					"trackDownload",
+					"openModal",
+					"templatevm",
+					"template.",
+					"template",
+					"templatevm",
+					"type=\"search\"",
+					"',",
+					"\\.aspx",
+					"aspx",
+					"vendor",
+					"ENABLE_SCSS",
+					"searchResults",
+					"sItem",
+					"searchvm",
+					"templatevm",
+					"searchvm",
+					"sItem",
+					"templatevm",
+					"SYSTEM_BUILDER_CONFIG",
+					"SYSTEM_CONFIG_DEV",
+					"system"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"title",
+					"'",
+					"activity",
+					"'",
+					"templateDetailvm.templateDetail",
+					"'",
+					"favorite",
+					"activity",
+					"../Content",
+					"\"../Content",
+					"Open Sans",
+					"hardDiskAccordian",
+					"'",
+					" ",
+					"$1",
+					"$2",
+					"PPPP",
+					"hk"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 288.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"route",
+						"nodeauth\\config\\routes.js"
+					],
+					[
+						"meet",
+						"public\\js\\meetings\\meetings.html"
+					],
+					[
+						"tegictr",
+						"public\\js\\auth\\RegistrationCtrl.js"
+					],
+					[
+						"ctr",
+						"public\\js\\controllers\\AppCtrl.js"
+					],
+					[
+						"menutem",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuTemplate.html"
+					],
+					[
+						"framtem",
+						"ng-framework\\public\\ext-modules\\hkFramework\\hkFrameworkTemplate.html"
+					],
+					[
+						"appcs",
+						"ng-framework\\public\\css\\app.css"
+					],
+					[
+						"ppctrl",
+						"ng-framework\\public\\js\\controllers\\AppCtrl.js"
+					],
+					[
+						"index",
+						"ng-framework\\public\\index.html"
+					],
+					[
+						"appco",
+						"ng-framework\\public\\js\\appConfig.js"
+					],
+					[
+						"appjs",
+						"ng-framework\\public\\js\\appModule.js"
+					],
+					[
+						"dataser",
+						"ng-framework\\public\\js\\services\\dataService.js"
+					],
+					[
+						"temtem",
+						"ng-framework\\public\\js\\widgets\\temperature\\temperatureTemplate.html"
+					],
+					[
+						"temdire",
+						"ng-framework\\public\\js\\widgets\\temperature\\temperatureDirective.js"
+					],
+					[
+						"temcss",
+						"ng-framework\\public\\js\\widgets\\temperature\\temperature.css"
+					],
+					[
+						"dataserv",
+						"ng-framework\\public\\js\\services\\dataService.js"
+					],
+					[
+						"tem",
+						"public\\js\\widgets\\temprature\\temprature.css"
+					],
+					[
+						"menucss",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenu.css"
+					],
+					[
+						"hkmenu",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuTemplate.html"
+					],
+					[
+						"menuco",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuController.js"
+					],
+					[
+						"hkmecss",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenu.css"
+					],
+					[
+						"groute",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupTemplate.html"
+					],
+					[
+						"hkmenugr",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupDirective.js"
+					],
+					[
+						"group",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupDirective.js"
+					],
+					[
+						"hkm",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupTemplate.html"
+					],
+					[
+						"hkme",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuController.js"
+					],
+					[
+						"hkmenuit",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuItemDirective.js"
+					],
+					[
+						"item",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuItemTemplate.html"
+					],
+					[
+						"fr",
+						"ng-framework\\public\\ext-modules\\hkFramework\\hkFrameworkController.js"
+					],
+					[
+						"inde",
+						"ng-framework\\public\\index.html"
+					],
+					[
+						"hkfr",
+						"ng-framework\\public\\ext-modules\\hkFramework\\hkFrameworkController.js"
+					],
+					[
+						"",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuTemplate.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 329.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1548.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bs3-tab",
+						"bs3-table:bordered	bs3-table-bordered"
+					],
+					[
+						"bs3-li",
+						"bs3-list-group	bs3-list-group"
+					],
+					[
+						"back",
+						"background-position"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"padd",
+						"padding-right"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"te",
+						"text-transform"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"list-st",
+						"list-style-type"
+					],
+					[
+						"bs3-tem",
+						"bs3-template:starter	bs3-template.starter"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"bs3-lab",
+						"bs3-label:info	bs3-label-info"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"In",
+						"Input	alias"
+					],
+					[
+						"const",
+						"constructor	keyword"
+					],
+					[
+						"bs3-form",
+						"bs3-form	bs3-form"
+					],
+					[
+						"inn",
+						"innerWidth	property"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"bs3-n",
+						"bs3-navbar:form	bs3-navbar-form"
+					],
+					[
+						"bs3-for",
+						"bs3-form	bs3-form"
+					],
+					[
+						"ng",
+						"ng2	ng2"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"fle",
+						"flex-direction"
+					],
+					[
+						"fl",
+						"flex-start"
+					],
+					[
+						"flex",
+						"flex-basis"
+					],
+					[
+						"ro",
+						"row-reverse"
+					],
+					[
+						"ROUT",
+						"ROUTER_PROVIDERS	alias"
+					],
+					[
+						"Con",
+						"ContactComponent	alias"
+					],
+					[
+						"Lo",
+						"LoginComponent	alias"
+					],
+					[
+						"cas",
+						"snakeCase	method"
+					],
+					[
+						"con",
+						"Console	interface"
+					],
+					[
+						"nam",
+						"name	parameter"
+					],
+					[
+						"fi",
+						"firstName	let"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"U",
+						"UserCtrl	class"
+					],
+					[
+						"Use",
+						"UserSvc	module"
+					],
+					[
+						"m",
+						"module	method"
+					],
+					[
+						"D",
+						"disabled	Attr"
+					],
+					[
+						"Eve",
+						"EventEmitter	alias"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"Com",
+						"Component	alias"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"response",
+						"responseBody"
+					],
+					[
+						"sayi",
+						"saying"
+					],
+					[
+						"sayin",
+						"sayings"
+					],
+					[
+						"wait",
+						"waitTime"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"margin-",
+						"margin-top"
+					],
+					[
+						"bs3-pan",
+						"bs3-panel:info	bs3-panel-info"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"remove",
+						"angular: removeClass"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"Per",
+						"Person	class"
+					],
+					[
+						"per",
+						"personName	parameter"
+					],
+					[
+						"prin",
+						"printMe	function"
+					],
+					[
+						"fade",
+						"fadeOut"
+					],
+					[
+						"fad",
+						"fadeOut"
+					],
+					[
+						"bs3-in",
+						"bs3-input:radio	bs3-input-radio"
+					],
+					[
+						"CONST",
+						"constructor	keyword"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"Fo",
+						"FORM_DIRECTIVES	alias"
+					],
+					[
+						"FORM",
+						"FORM_DIRECTIVES	alias"
+					],
+					[
+						"FOR",
+						"FORM_DIRECTIVES	alias"
+					],
+					[
+						"bs3-fo",
+						"bs3-form:inline	bs3-form-inline"
+					],
+					[
+						"my",
+						"mySkill	property"
+					],
+					[
+						"bs3-nav",
+						"bs3-navbar	bs3-navbar"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"bs3-ra",
+						"bs3-input:radio	bs3-input-radio"
+					],
+					[
+						"sourcem",
+						"sourcemaps"
+					],
+					[
+						"sty",
+						"stylesheet"
+					],
+					[
+						"bs3-aler",
+						"bs3-alert:info	bs3-alert-info"
+					],
+					[
+						"bs3-input-g",
+						"bs3-input-group-addon	bs3-input-group-addon"
+					],
+					[
+						"bs3-ingroup",
+						"bs3-input-group	bs3-input-group"
+					],
+					[
+						"sss-dat",
+						"sss-date	sss-date"
+					],
+					[
+						"Book",
+						"BookService	alias"
+					],
+					[
+						"imp",
+						"import	keyword"
+					],
+					[
+						"Route",
+						"Router"
+					],
+					[
+						"Rou",
+						"Router"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"sig",
+						"signedIn"
+					],
+					[
+						"user",
+						"userObj"
+					],
+					[
+						"User",
+						"UserRouter"
+					],
+					[
+						"au",
+						"authorRouter"
+					],
+					[
+						"boo",
+						"bookRouter"
+					],
+					[
+						"member",
+						"memberName"
+					],
+					[
+						"book",
+						"books"
+					],
+					[
+						"for",
+						"formData"
+					],
+					[
+						"bs3-bu",
+						"bs3-button:info	bs3-button-info"
+					],
+					[
+						"fir",
+						"firebase"
+					],
+					[
+						"component",
+						"componentWillReceiveProps	Life Cycle Method"
+					],
+					[
+						"cho",
+						"choices"
+					],
+					[
+						"socket",
+						"sockets"
+					],
+					[
+						"mem",
+						"member"
+					],
+					[
+						"bs3-bad",
+						"bs3-badge	bs3-badge"
+					],
+					[
+						"bs3-te",
+						"bs3-textarea	bs3-textarea"
+					],
+					[
+						"sss",
+						"sss-input	sss-input"
+					],
+					[
+						"dropdown",
+						"dropdown-menu"
+					],
+					[
+						"Hell",
+						"HelloWorld"
+					],
+					[
+						"web",
+						"webpack-dev-server"
+					],
+					[
+						"de",
+						"devConfig"
+					],
+					[
+						"NEW",
+						"newValue"
+					],
+					[
+						"new",
+						"newValue"
+					],
+					[
+						"bs3-la",
+						"bs3-label:info	bs3-label-info"
+					],
+					[
+						"bs3-ta",
+						"bs3-table:responsive	bs3-table-responsive"
+					],
+					[
+						"bs3-pag",
+						"bs3-pagination	bs3-pagination"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"alert",
+						"alertTimeout"
+					],
+					[
+						"aler",
+						"alert"
+					],
+					[
+						"face",
+						"facebook"
+					],
+					[
+						"ti",
+						"timesTwo"
+					],
+					[
+						"nu",
+						"number	keyword"
+					],
+					[
+						"Pe",
+						"Person	interface"
+					],
+					[
+						"wi",
+						"wishList"
+					],
+					[
+						"wis",
+						"wishInput"
+					],
+					[
+						"log",
+						"logout"
+					],
+					[
+						"si",
+						"simpleLogin"
+					],
+					[
+						"aut",
+						"authWithPassword"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"re",
+						"fbRef"
+					],
+					[
+						"fu",
+						"function"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/hk/GITHUB/ngdemo/src/app/home/home.controller.js",
+					"settings":
+					{
+						"buffer_size": 190,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/hk/GITHUB/ngdemo/src/app/services/user.service.js",
+					"settings":
+					{
+						"buffer_size": 360,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Searching 67 files for \"follow\" (regex)\n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\article\\article-actions.html:\n   17    </span>\n   18  \n   19:   <!-- Otherwise, show favorite & follow buttons -->\n   20    <span ng-hide=\"$ctrl.canModify\">\n   21:     <follow-btn user=\"$ctrl.article.author\"></follow-btn>\n   22      <favorite-btn article=\"$ctrl.article\">\n   23        {{ $ctrl.article.favorited ? 'Unfavorite' : 'Favorite' }} Article <span class=\"counter\">({{$ctrl.article.favoritesCount}})</span>\n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\components\\buttons\\follow-btn.component.js:\n    1: class FollowBtnCtrl {\n    2    constructor(Profile, User, $state) {\n    3      'ngInject';\n    .\n   17      }\n   18  \n   19:     // If following already, unfollow\n   20:     if (this.user.following) {\n   21:       this._Profile.unfollow(this.user.username).then(\n   22          () => {\n   23            this.isSubmitting = false;\n   24:           this.user.following = false;\n   25          }\n   26        )\n   27  \n   28:     // Otherwise, follow them\n   29      } else {\n   30:       this._Profile.follow(this.user.username).then(\n   31          () => {\n   32            this.isSubmitting = false;\n   33:           this.user.following = true;\n   34          }\n   35        )\n   ..\n   40  }\n   41  \n   42: let FollowBtn= {\n   43    bindings: {\n   44      user: '='\n   45    },\n   46:   controller: FollowBtnCtrl,\n   47:   templateUrl: 'components/buttons/follow-btn.html'\n   48  };\n   49  \n   50: export default FollowBtn;\n   51  \n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\components\\buttons\\follow-btn.html:\n    2    class=\"btn btn-sm action-btn\"\n    3    ng-class=\"{ 'disabled': $ctrl.isSubmitting,\n    4:               'btn-outline-secondary': !$ctrl.user.following,\n    5:               'btn-secondary': $ctrl.user.following }\"\n    6    ng-click=\"$ctrl.submit()\">\n    7    <i class=\"ion-plus-round\"></i>\n    8    &nbsp;\n    9:   {{ $ctrl.user.following ? 'Unfollow' : 'Follow' }} {{ $ctrl.user.username }}\n   10  </button>\n   11  \n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\components\\index.js:\n   21  componentsModule.component('favoriteBtn', FavoriteBtn);\n   22  \n   23: import FollowBtn from './buttons/follow-btn.component';\n   24: componentsModule.component('followBtn', FollowBtn);\n   25  \n   26  import ListErrors from './list-errors.component';\n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\config\\app.templates.js:\n    1: angular.module(\"templates\", []).run([\"$templateCache\", function($templateCache) {$templateCache.put(\"article/article-actions.html\",\"<article-meta article=\\\"$ctrl.article\\\">\\n\\n  <!-- If current user is the author, show edit/delete buttons -->\\n  <span ng-show=\\\"$ctrl.canModify\\\">\\n\\n    <a class=\\\"btn btn-outline-secondary btn-sm\\\"\\n      ui-sref=\\\"app.editor({ slug: $ctrl.article.slug })\\\">\\n      <i class=\\\"ion-edit\\\"></i> Edit Article\\n    </a>\\n\\n    <button class=\\\"btn btn-outline-danger btn-sm\\\"\\n      ng-class=\\\"{disabled: $ctrl.isDeleting}\\\"\\n      ng-click=\\\"$ctrl.deleteArticle()\\\">\\n      <i class=\\\"ion-trash-a\\\"></i> Delete Article\\n    </button>\\n\\n  </span>\\n\\n  <!-- Otherwise, show favorite & follow buttons -->\\n  <span ng-hide=\\\"$ctrl.canModify\\\">\\n    <follow-btn user=\\\"$ctrl.article.author\\\"></follow-btn>\\n    <favorite-btn article=\\\"$ctrl.article\\\">\\n      {{ $ctrl.article.favorited ? \\'Unfavorite\\' : \\'Favorite\\' }} Article <span class=\\\"counter\\\">({{$ctrl.article.favoritesCount}})</span>\\n    </favorite-btn>\\n  </span>\\n\\n</article-meta>\\n\");\n    2  $templateCache.put(\"article/article.html\",\"<div class=\\\"article-page\\\">\\n\\n  <!-- Banner for article title, action buttons -->\\n  <div class=\\\"banner\\\">\\n    <div class=\\\"container\\\">\\n\\n      <h1 ng-bind=\\\"::$ctrl.article.title\\\"></h1>\\n      <article-actions article=\\\"$ctrl.article\\\"></article-actions>\\n\\n    </div>\\n  </div>\\n\\n\\n\\n  <!-- Main view. Contains article html and comments -->\\n  <div class=\\\"container page\\\">\\n\\n    <!-- Article\\'s HTML & tags rendered here -->\\n    <div class=\\\"row article-content\\\">\\n      <div class=\\\"col-xs-12\\\">\\n\\n        <div ng-bind-html=\\\"::$ctrl.article.body\\\"></div>\\n\\n        <ul class=\\\"tag-list\\\">\\n          <li class=\\\"tag-default tag-pill tag-outline\\\"\\n            ng-repeat=\\\"tag in ::$ctrl.article.tagList\\\">\\n            {{ tag }}\\n          </li>\\n        </ul>\\n\\n      </div>\\n    </div>\\n\\n    <hr />\\n\\n    <div class=\\\"article-actions\\\">\\n      <article-actions article=\\\"$ctrl.article\\\"></article-actions>\\n    </div>\\n\\n    <!-- Comments section -->\\n    <div class=\\\"row\\\">\\n      <div class=\\\"col-xs-12 col-md-8 offset-md-2\\\">\\n\\n        <div show-authed=\\\"true\\\">\\n          <list-errors from=\\\"$ctrl.commentForm.errors\\\"></list-errors>\\n          <form class=\\\"card comment-form\\\" ng-submit=\\\"$ctrl.addComment()\\\">\\n            <div class=\\\"card-block\\\">\\n              <textarea class=\\\"form-control\\\"\\n                placeholder=\\\"Write a comment...\\\"\\n                rows=\\\"3\\\"\\n                ng-model=\\\"$ctrl.commentForm.body\\\">\\n              </textarea>\\n            </div>\\n            <div class=\\\"card-footer\\\">\\n              <img ng-src=\\\"{{::$ctrl.currentUser.image}}\\\" class=\\\"comment-author-img\\\" />\\n              <button class=\\\"btn btn-sm btn-primary\\\" type=\\\"submit\\\">\\n               Post Comment\\n              </button>\\n            </div>\\n          </form>\\n        </div>\\n\\n        <p show-authed=\\\"false\\\">\\n          <a ui-sref=\\\"app.login\\\">Sign in</a> or <a ui-sref=\\\"app.register\\\">sign up</a> to add comments on this article.\\n        </p>\\n\\n        <comment ng-repeat=\\\"cmt in $ctrl.comments\\\"\\n          data=\\\"cmt\\\"\\n          delete-cb=\\\"$ctrl.deleteComment(cmt.id, $index)\\\">\\n        </comment>\\n\\n      </div>\\n    </div>\\n\\n  </div>\\n\\n\\n\\n</div>\\n\");\n    3  $templateCache.put(\"article/comment.html\",\"<div class=\\\"card\\\">\\n  <div class=\\\"card-block\\\">\\n    <p class=\\\"card-text\\\" ng-bind=\\\"::$ctrl.data.body\\\"></p>\\n  </div>\\n  <div class=\\\"card-footer\\\">\\n    <a class=\\\"comment-author\\\"\\n      ui-sref=\\\"app.profile({ username: $ctrl.data.author.username })\\\">\\n      <img ng-src=\\\"{{::$ctrl.data.author.image}}\\\" class=\\\"comment-author-img\\\" />\\n    </a>\\n    &nbsp;\\n    <a class=\\\"comment-author\\\"\\n      ui-sref=\\\"app.profile({ username: $ctrl.data.author.username })\\\"\\n      ng-bind=\\\"::$ctrl.data.author.username\\\">\\n    </a>\\n    <span class=\\\"date-posted\\\"\\n      ng-bind=\\\"::$ctrl.data.createdAt | date: \\'longDate\\' \\\">\\n    </span>\\n    <span class=\\\"mod-options\\\" ng-show=\\\"$ctrl.canModify\\\">\\n      <i class=\\\"ion-trash-a\\\" ng-click=\\\"$ctrl.deleteCb()\\\"></i>\\n    </span>\\n  </div>\\n</div>\\n\");\n    .\n   10  $templateCache.put(\"layout/header.html\",\"<nav class=\\\"navbar navbar-light\\\">\\n  <div class=\\\"container\\\">\\n\\n    <a class=\\\"navbar-brand\\\"\\n      ui-sref=\\\"app.home\\\"\\n      ng-bind=\\\"::$ctrl.appName | lowercase\\\">\\n    </a>\\n\\n    <!-- Show this for logged out users -->\\n    <ul show-authed=\\\"false\\\"\\n      class=\\\"nav navbar-nav pull-xs-right\\\">\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.home\\\">\\n          Home\\n        </a>\\n      </li>\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.login\\\">\\n          Sign in\\n        </a>\\n      </li>\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.register\\\">\\n          Sign up\\n        </a>\\n      </li>\\n\\n    </ul>\\n\\n    <!-- Show this for logged in users -->\\n    <ul show-authed=\\\"true\\\"\\n      class=\\\"nav navbar-nav pull-xs-right\\\">\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.home\\\">\\n          Home\\n        </a>\\n      </li>\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.editor\\\">\\n          <i class=\\\"ion-compose\\\"></i>&nbsp;New Post\\n        </a>\\n      </li>\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.settings\\\">\\n          <i class=\\\"ion-gear-a\\\"></i>&nbsp;Settings\\n        </a>\\n      </li>\\n\\n      <li class=\\\"nav-item\\\">\\n        <a class=\\\"nav-link\\\"\\n          ui-sref-active=\\\"active\\\"\\n          ui-sref=\\\"app.profile.main({ username: $ctrl.currentUser.username })\\\">\\n          <img ng-src=\\\"{{$ctrl.currentUser.image}}\\\" class=\\\"user-pic\\\"/>\\n          {{ $ctrl.currentUser.username }}\\n        </a>\\n      </li>\\n\\n    </ul>\\n\\n\\n  </div>\\n</nav>\\n\");\n   11  $templateCache.put(\"profile/profile-articles.html\",\"<article-list limit=\\\"5\\\" list-config=\\\"$ctrl.listConfig\\\"></article-list>\\n\");\n   12: $templateCache.put(\"profile/profile.html\",\"<div class=\\\"profile-page\\\">\\n\\n  <!-- User\\'s basic info & action buttons -->\\n  <div class=\\\"user-info\\\">\\n    <div class=\\\"container\\\">\\n      <div class=\\\"row\\\">\\n        <div class=\\\"col-xs-12 col-md-10 offset-md-1\\\">\\n\\n          <img ng-src=\\\"{{::$ctrl.profile.image}}\\\" class=\\\"user-img\\\" />\\n          <h4 ng-bind=\\\"::$ctrl.profile.username\\\"></h4>\\n          <p ng-bind=\\\"::$ctrl.profile.bio\\\"></p>\\n          <follow-btn user=\\\"$ctrl.profile\\\" ng-hide=\\\"$ctrl.isUser\\\"></follow-btn>\\n\\n          <a ui-sref=\\\"app.settings\\\"\\n            class=\\\"btn btn-sm btn-outline-secondary action-btn\\\"\\n            ng-show=\\\"$ctrl.isUser\\\">\\n            <i class=\\\"ion-gear-a\\\"></i> Edit Profile Settings\\n          </a>\\n\\n        </div>\\n      </div>\\n    </div>\\n  </div>\\n\\n  <!-- Container where User\\'s posts & favs are list w/ toggle tabs -->\\n  <div class=\\\"container\\\">\\n    <div class=\\\"row\\\">\\n\\n      <div class=\\\"col-xs-12 col-md-10 offset-md-1\\\">\\n\\n        <!-- Tabs for switching between author articles & favorites -->\\n        <div class=\\\"articles-toggle\\\">\\n          <ul class=\\\"nav nav-pills outline-active\\\">\\n\\n            <li class=\\\"nav-item\\\">\\n              <a class=\\\"nav-link\\\"\\n                ui-sref-active=\\\"active\\\"\\n                ui-sref=\\\"app.profile.main({username: $ctrl.profile.username})\\\">\\n                My Articles\\n              </a>\\n            </li>\\n\\n            <li class=\\\"nav-item\\\">\\n              <a class=\\\"nav-link\\\"\\n                ui-sref-active=\\\"active\\\"\\n                ui-sref=\\\"app.profile.favorites({username: $ctrl.profile.username})\\\">\\n                Favorited Articles\\n              </a>\\n            </li>\\n\\n          </ul>\\n        </div>\\n\\n        <!-- View where profile-articles renders to -->\\n        <div ui-view></div>\\n\\n      </div>\\n\\n    <!-- End row & container divs -->\\n    </div>\\n  </div>\\n\\n</div>\\n\");\n   13  $templateCache.put(\"settings/settings.html\",\"<div class=\\\"settings-page\\\">\\n  <div class=\\\"container page\\\">\\n    <div class=\\\"row\\\">\\n      <div class=\\\"col-md-6 offset-md-3 col-xs-12\\\">\\n\\n        <h1 class=\\\"text-xs-center\\\">Your Settings</h1>\\n\\n        <list-errors errors=\\\"$ctrl.errors\\\"></list-errors>\\n\\n        <form ng-submit=\\\"$ctrl.submitForm()\\\">\\n          <fieldset ng-disabled=\\\"$ctrl.isSubmitting\\\">\\n\\n            <fieldset class=\\\"form-group\\\">\\n              <input class=\\\"form-control\\\"\\n                type=\\\"text\\\"\\n                placeholder=\\\"URL of profile picture\\\"\\n                ng-model=\\\"$ctrl.formData.image\\\" />\\n            </fieldset>\\n\\n            <fieldset class=\\\"form-group\\\">\\n              <input class=\\\"form-control form-control-lg\\\"\\n                type=\\\"text\\\"\\n                placeholder=\\\"Username\\\"\\n                ng-model=\\\"$ctrl.formData.username\\\" />\\n            </fieldset>\\n\\n            <fieldset class=\\\"form-group\\\">\\n              <textarea class=\\\"form-control form-control-lg\\\"\\n                rows=\\\"8\\\"\\n                placeholder=\\\"Short bio about you\\\"\\n                ng-model=\\\"$ctrl.formData.bio\\\">\\n              </textarea>\\n            </fieldset>\\n\\n            <fieldset class=\\\"form-group\\\">\\n              <input class=\\\"form-control form-control-lg\\\"\\n                type=\\\"email\\\"\\n                placeholder=\\\"Email\\\"\\n                ng-model=\\\"$ctrl.formData.email\\\" />\\n            </fieldset>\\n\\n            <fieldset class=\\\"form-group\\\">\\n              <input class=\\\"form-control form-control-lg\\\"\\n                type=\\\"password\\\"\\n                placeholder=\\\"New Password\\\"\\n                ng-model=\\\"$ctrl.formData.password\\\" />\\n            </fieldset>\\n\\n            <button class=\\\"btn btn-lg btn-primary pull-xs-right\\\"\\n              type=\\\"submit\\\">\\n              Update Settings\\n            </button>\\n\\n          </fieldset>\\n        </form>\\n\\n        <!-- Line break for logout button -->\\n        <hr />\\n\\n        <button class=\\\"btn btn-outline-danger\\\"\\n          ng-click=\\\"$ctrl._User.logout()\\\">\\n          Or click here to logout.\\n        </button>\\n\\n      </div>\\n    </div>\\n  </div>\\n</div>\\n\");\n   14  $templateCache.put(\"components/article-helpers/article-list.html\",\"<article-preview\\n  article=\\\"article\\\"\\n  ng-repeat=\\\"article in $ctrl.list\\\">\\n</article-preview>\\n\\n<div class=\\\"article-preview\\\"\\n  ng-hide=\\\"!$ctrl.loading\\\">\\n  Loading articles...\\n</div>\\n\\n<div class=\\\"article-preview\\\"\\n  ng-show=\\\"!$ctrl.loading && !$ctrl.list.length\\\">\\n  No articles are here... yet.\\n</div>\\n\\n<list-pagination\\n  total-pages=\\\"$ctrl.listConfig.totalPages\\\"\\n  current-page=\\\"$ctrl.listConfig.currentPage\\\"\\n  ng-hide=\\\"$ctrl.listConfig.totalPages <= 1\\\">\\n</list-pagination>\\n\");\n   ..\n   17  $templateCache.put(\"components/article-helpers/list-pagination.html\",\"<nav>\\n  <ul class=\\\"pagination\\\">\\n\\n    <li class=\\\"page-item\\\"\\n      ng-class=\\\"{active: pageNumber === $ctrl.currentPage }\\\"\\n      ng-repeat=\\\"pageNumber in $ctrl.pageRange($ctrl.totalPages)\\\"\\n      ng-click=\\\"$ctrl.changePage(pageNumber)\\\">\\n\\n      <a class=\\\"page-link\\\" href=\\\"\\\">{{ pageNumber }}</a>\\n\\n    </li>\\n\\n  </ul>\\n</nav>\\n\");\n   18  $templateCache.put(\"components/buttons/favorite-btn.html\",\"<button class=\\\"btn btn-sm\\\"\\n  ng-class=\\\"{ \\'disabled\\': $ctrl.isSubmitting,\\n              \\'btn-outline-primary\\': !$ctrl.article.favorited,\\n              \\'btn-primary\\': $ctrl.article.favorited }\\\"\\n  ng-click=\\\"$ctrl.submit()\\\">\\n\\n  <i class=\\\"ion-heart\\\"></i> <ng-transclude></ng-transclude>\\n\\n</button>\\n\");\n   19: $templateCache.put(\"components/buttons/follow-btn.html\",\"<button\\n  class=\\\"btn btn-sm action-btn\\\"\\n  ng-class=\\\"{ \\'disabled\\': $ctrl.isSubmitting,\\n              \\'btn-outline-secondary\\': !$ctrl.user.following,\\n              \\'btn-secondary\\': $ctrl.user.following }\\\"\\n  ng-click=\\\"$ctrl.submit()\\\">\\n  <i class=\\\"ion-plus-round\\\"></i>\\n  &nbsp;\\n  {{ $ctrl.user.following ? \\'Unfollow\\' : \\'Follow\\' }} {{ $ctrl.user.username }}\\n</button>\\n\");}]);\n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\profile\\profile.html:\n   10            <h4 ng-bind=\"::$ctrl.profile.username\"></h4>\n   11            <p ng-bind=\"::$ctrl.profile.bio\"></p>\n   12:           <follow-btn user=\"$ctrl.profile\" ng-hide=\"$ctrl.isUser\"></follow-btn>\n   13  \n   14            <a ui-sref=\"app.settings\"\n\nD:\\test\\conduit-angularjs-final-master\\src\\js\\services\\profile.service.js:\n   17    }\n   18  \n   19:   // Follow a user\n   20:   follow(username) {\n   21      return this._$http({\n   22:       url: this._AppConstants.api + '/profiles/' + username + '/follow',\n   23        method: 'POST'\n   24      }).then((res) => res.data);\n   25    }\n   26  \n   27:   // Unfollow a user\n   28:   unfollow(username) {\n   29      return this._$http({\n   30:       url: this._AppConstants.api + '/profiles/' + username + '/follow',\n   31        method: 'DELETE'\n   32      }).then((res) => res.data);\n\n44 matches across 7 files\n\n\nSearching 67 files for \"_$http\" (regex)\n\n0 matches",
+					"settings":
+					{
+						"buffer_size": 15869,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/D/test/conduit-angularjs-final-master/src/js/components/buttons/follow-btn.component.js",
+					"settings":
+					{
+						"buffer_size": 914,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "fet",
+				"selected_items":
+				[
+					[
+						"fet",
+						"Fetch: Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"sid",
+						"View: Toggle Side Bar"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"jo",
+						"Set Syntax: JSON"
+					],
+					[
+						"jav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"encodi",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"ty",
+						"Set Syntax: TypeScript"
+					],
+					[
+						"emm",
+						"Set Syntax: Emmet"
+					],
+					[
+						"jsx",
+						"Set Syntax: JSX"
+					],
+					[
+						"beauti",
+						"HTMLBeautify"
+					],
+					[
+						"au",
+						"Autoprefix CSS"
+					]
+				],
+				"width": 418.0
+			},
+			"console":
+			{
+				"height": 176.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/test/conduit-angularjs-final-master",
+				"/D/hk/GITHUB/ngdemo",
+				"/D/hk/GITHUB/ngdemo/src",
+				"/D/hk/GITHUB/ngdemo/src/app",
+				"/D/hk/GITHUB/ngdemo/src/app/home",
+				"/D/test/angular-es6-example-master",
+				"/D/test/angular-es6-example-master/src",
+				"/D/test/angular-es6-example-master/src/app",
+				"/D/test/angular-es6-example-master/src/app/example-component",
+				"/D/test/angular-es6-example-master/src/app/example-component/example-controller",
+				"/D/test/angular-es6-example-master/src/app/example-component/example-directive",
+				"/D/test/angular-es6-example-master/src/app/example-component/example-service"
+			],
+			"file_history":
+			[
+				"/D/test/conduit-angularjs-final-master/src/js/article/article.controller.js",
+				"/D/hk/GITHUB/ngdemo/src/app/home/home.html",
+				"/D/test/angular-es6-sample-master/src/scripts/controllers/HomeController.js",
+				"/D/hk/GITHUB/ngdemo/src/app/filters/text-filters.js",
+				"/D/hk/GITHUB/ngdemo/src/app/filters/index.js",
+				"/D/hk/GITHUB/ngdemo/src/app/config/app.constants.js",
+				"/D/hk/GITHUB/ngdemo/src/app/services/index.js",
+				"/D/hk/GITHUB/ngdemo/src/app/services/user.service.js",
+				"/D/test/conduit-angularjs-final-master/src/js/components/buttons/follow-btn.component.js",
+				"/D/hk/GITHUB/ngdemo/src/app/app.js",
+				"/C/Users/hesing/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+				"/D/test/ngdemo/.gitignore",
+				"/D/test/ngdemo/README.md",
+				"/D/hk/GITHUB/ngdemo/src/app/sidebar/sidebar.config.js",
+				"/D/hk/GITHUB/ngdemo/src/app/components/index.js",
+				"/D/hk/GITHUB/ngdemo/src/app/components/sidebar/sidebar.component.js",
+				"/D/hk/GITHUB/ngdemo/gulpfile.js",
+				"/D/hk/GITHUB/ngdemo/src/app/sidebar/sidebar.controller.js",
+				"/D/hk/GITHUB/ngdemo/src/app/layout/app-view.html",
+				"/D/hk/GITHUB/ngdemo/src/app/sidebar/sidebar.html",
+				"/D/test/ngdemo/src/app/home/home.html",
+				"/D/test/ngdemo/gulpfile.js",
+				"/D/test/conduit-angularjs-final-master/gulpfile.js",
+				"/D/test/ngdemo/src/app/app.js",
+				"/D/test/ngdemo/src/app/config/app.templates.js",
+				"/D/test/ngdemo/src/app/about/about.html",
+				"/D/test/ngdemo/src/app/components/index.js",
+				"/D/test/ngdemo/src/app/about/index.js",
+				"/D/test/ngdemo/src/app/about/about.config.js",
+				"/D/test/ngdemo/src/app/home/home.config.js",
+				"/D/test/ngdemo/src/app/layout/index.js",
+				"/D/test/ngdemo/src/app/layout/footer.html",
+				"/D/test/ngdemo/src/app/layout/header.component.js",
+				"/D/test/ngdemo/src/app/config/app.config.js",
+				"/D/test/ngdemo/src/app/layout/app-view.html",
+				"/D/test/ngdemo/src/app/home/home.controller.js",
+				"/D/test/ngdemo/src/app/config/app.constants.js",
+				"/D/test/ngdemo/src/app/index.html",
+				"/D/test/ngdemo/build/index.html",
+				"/D/test/ngdemo/src/app/layout/header.html",
+				"/D/test/ngdemo/src/app/contact/index.js",
+				"/D/test/ngdemo/src/app/contact/contact.html",
+				"/D/test/ngdemo/src/app/contact/contact.config.js",
+				"/D/test/conduit-angularjs-final-master/build/index.html",
+				"/D/test/ngdemo/src/sass/main.scss",
+				"/D/test/ngdemo/package.json",
+				"/D/test/conduit-angularjs-final-master/src/js/config/app.constants.js",
+				"/D/test/angular-es6-sample-master/gulpfile.js",
+				"/D/test/Front End Dev Framework Setup.md",
+				"/D/gti/DEV/Source/GTI.Apps/src/GTI.Web.Apps.FinancialStatement/wwwroot/scripts/views/defineFinancialStatementView.js",
+				"/D/test/angular-es6-example-master/build/index.html",
+				"/D/test/angular-es6-sample-master/README.md",
+				"/D/test/angular-es6-sample-master/package.json",
+				"/D/gti/DEV/GTI.UI/Audit/scss/components/_kendo-grid.scss",
+				"/D/gti/DEV/Source/GTI.Apps/src/GTI.Web.Apps.FinancialStatement/Views/Shared/Components/ManageStatements/Default.cshtml",
+				"/D/gti/DEV/Source/GTI.Apps/src/GTI.Web.Apps.FinancialStatement/wwwroot/scripts/views/manageStatementView.js",
+				"/D/gti/DEV/Source/GTI.Apps/src/GTI.Web.Apps.TrialBalance/Views/Home/Index.cshtml",
+				"/D/gti/DEV/Source/GTI.Apps/src/GTI.Web.Apps.TrialBalance/Views/Shared/Components/ManagePeriods/Default.cshtml",
+				"/D/gti/DEV/Source/GTI.Apps/src/GTI.Web.Apps.FinancialStatement/Views/Shared/Components/DefineFinancialStatement/Default.cshtml",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/common/scrollbar/jquery.mCustomScrollbar.scss",
+				"/D/test/ng1demo/public/vendor/angular.js",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_panelbar.scss",
+				"/D/test/ultimate-angular-master-src-master/03-directive-controllers/content/index.html",
+				"/D/test/ultimate-angular-master-src-master/09-multislot-transclusion/content/index.html",
+				"/D/test/ng2demo/package.json",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/public/components/common/scrollbar/jquery.mCustomScrollbar.concat.min.js",
+				"/D/gti/DEV/GTI.UI/Audit/scss/components/_panelbar.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_form.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_utilities.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/components/_kendo-tabs.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_pills.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_kendo-grid.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_kendo.scss",
+				"/D/sdmsprint2/SDMPlus/SDMPlus.Service/UIDev/gulpfile.js",
+				"/D/gti/DEV/GTI.UI/Audit/scss/components/_forms.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/rtl/_icons.scss",
+				"/D/gti/DEV/GTI.UI/Audit/demo/Web/Views/Kendo/Panel.cshtml",
+				"/D/gti/DEV/GTI.UI/Audit/scss/common/_page.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/common/_type.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/components/_pills.scss",
+				"/D/gti/DEV/GTI.UI/Audit/gulpfile.js",
+				"/D/gti/GTI.UI/Audit/demo/Web/Views/Unique/Apps/FinancialDashboard/RiskAssessment.cshtml",
+				"/D/gti/DEV/GTI.UI/Audit/scss/components/_flyout.scss",
+				"/D/gti/DEV/GTI.UI/Audit/scss/common/_modules.scss",
+				"/D/gti/GTI.UI/Audit/scss/components/_panelbar.scss",
+				"/D/gti/GTI.UI/Audit/scss/components/_forms.scss",
+				"/D/jsdemo/js/main.js",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - Topics New/MSEngageandDeliveryExcellenceComplianceReporting.aspx",
+				"/D/jsdemo/index.html",
+				"/D/bsdemo/index.html",
+				"/D/jsdemo/README.md",
+				"/D/bsdemo/css/main.css",
+				"/D/uidemo/index.html",
+				"/D/uidemo/css/main.css",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GatherAnalyzePrioritizeRequirementsandFeatures.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldCustomerKickoffMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GenerateTheProgramBudget.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GenerateBenefitsRealizationPlan.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gather Intelligence.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway5Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway4Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway3Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway2Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Gateway1Review.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldFinalProgramBoardMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldDeliveryManagementInitiationCompleteCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Hold Kick-Off Meeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Hold Discovery Call.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_Harvest IP.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HandOverProjectArtifacts.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HandOverOutstandingRisks.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GetComplexDealReviewedApproved.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GetComplexDealApprovedbyQA.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_GetApprovalsforNon-standardTerms.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldScopeCompleteCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldSalestoDeliveryHandoffMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldReleaseReadinessApprovedCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldProjectPlanApprovedCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldProgramPlanningWorkshops.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldInternalKickoffMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldDeploymentCompleteCheckpointReview.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldFinalMSInternalTeamMeeting.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldEngagementLevelCOSDiscussion.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_HoldSteeringCommitteeMeetings.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_TrackStatus.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_ImplementBenefitsRealizationPlanActivities.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_IdentifySuppliersToTheProgram.aspx",
+				"/C/Users/hesing/SharePoint/SDMPlusProd - SDM ActivityDL New/act_IdentifyRisks.aspx"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+					"D:\\test\\conduit-angularjs-final-master\\src",
+					"D:\\test\\ngdemo\\src",
+					"D:\\test\\ngdemo\\src\\app",
+					"D:\\test\\conduit-angularjs-final-master\\src",
+					"D:\\test\\ngdemo\\src",
+					"D:\\test\\conduit-angularjs-final-master",
+					"D:\\gti\\DEV\\Source\\GTI.Apps\\src",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss",
+					"D:\\gti\\DEV\\Source\\GTI.Apps\\src",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss\\rtl",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss\\components",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss\\rtl",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss\\components",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss",
+					"D:\\gti\\DEV\\GTI.UI\\Audit\\scss\\components",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\hk\\GITHUB\\sdmplus\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\home\\manuscript\\code\\conversion\\hybrid",
+					"D:\\hk\\GITHUB\\ng2app\\tools",
+					"D:\\hk\\GITHUB\\ng2app\\tools\\tasks",
+					"D:\\test1\\angular2-seed-master",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\hk\\GITHUB\\ng2app\\tools",
+					"D:\\hk\\GITHUB\\ng2app\\tools\\tasks",
+					"D:\\hk\\GITHUB\\ng2app\\tools",
+					"D:\\hk\\GITHUB\\ng2app\\src",
+					"D:\\test\\angular2-seed-master",
+					"D:\\sdm-docs\\latestvisios\\SDMPlus_Visio_ModernUI_Draft04182016_files",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\hk\\GITHUB\\sdmapi",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\test\\hk-theme",
+					"D:\\test\\hk-theme\\bootstrap-scss",
+					"D:\\test\\hk-theme",
+					"D:\\test\\hk-theme\\bootstrap-scss",
+					"D:\\test1\\ng2-projects\\src",
+					"D:\\test1\\ng2-projects\\tools",
+					"D:\\test1\\ng2-projects",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\test\\angular2-seed-sass-master\\tools",
+					"D:\\test\\angular2-seed-sass-master\\src",
+					"D:\\test\\angular2-seed-sass-master",
+					"D:\\test\\angular2-seed-sass-master\\src",
+					"D:\\test\\angular2-seed-sass-master",
+					"D:\\test\\angular2-seed-sass-master\\tools",
+					"D:\\test\\angular2-seed-sass-master",
+					"D:\\test\\angular2-seed-sass-master\\tools",
+					"D:\\test\\angular2-seed-sass-master\\src",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public\\scss",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\sdmsprint2\\SDMPlus\\SDMPlus.Service\\UIDev\\public\\components\\common\\scrollbar",
+					"D:\\test\\employee-scheduling-ui\\src",
+					"D:\\hk\\GITHUB\\sdmplus\\UIDev\\public\\scss",
+					"D:\\hk\\GITHUB\\sdmplus",
+					"D:\\test\\employee-scheduling-ui\\src",
+					"D:\\SDMPlus_Main\\SDMPlus\\SDMPlus.Service\\UIDev\\public",
+					"D:\\SDMPlus_Main\\SDMPlus\\SDMPlus.Service\\UIDev\\public\\js",
+					"D:\\test\\NG6-starter-jspm\\client\\app",
+					"D:\\test\\jspmdemo\\gulp",
+					"D:\\test\\employee-scheduling-ui\\gulp",
+					"D:\\ww-latest\\WorldWide\\Source\\VirtuosoWW-dev\\Microsoft.VirtuosoWW\\Microsoft.VirtuosoWW.Web\\frontend\\node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap",
+					"D:\\ww-latest\\WorldWide\\Source\\VirtuosoWW-dev\\Microsoft.VirtuosoWW\\Microsoft.VirtuosoWW.Web\\frontend\\src",
+					"C:\\Users\\hesing\\Downloads\\bootstrap-sass-3.3.6.tar\\bootstrap-sass-3.3.6\\bootstrap-sass-3.3.6\\assets",
+					"C:\\Users\\hesing\\Downloads\\bootstrap-sass-3.3.6.tar\\bootstrap-sass-3.3.6\\bootstrap-sass-3.3.6\\assets\\stylesheets\\bootstrap",
+					"D:\\test\\angular-2-samples-master",
+					"D:\\hk\\pollingapp",
+					"D:\\projects\\Simplify\\Source\\Microsoft.Services.Tools.SimplifyWeb\\Microsoft.Services.Tools.SimplifyWebPortal\\Controllers",
+					"D:\\projects\\Simplify\\Source\\Microsoft.Services.Tools.SimplifyWeb\\Microsoft.Services.Tools.SimplifyWebPortal\\Scripts\\js",
+					"D:\\test\\jobsapp",
+					"D:\\test\\jobsapp\\app",
+					"C:\\Users\\hesing\\Downloads\\mongo-express-master",
+					"D:\\test\\webpack\\client\\js",
+					"D:\\projects\\ng-framework\\public\\ext-modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"_$http",
+					"follow",
+					"Profile",
+					"profile",
+					"Profile",
+					"home",
+					"source",
+					"src",
+					"public",
+					"copy",
+					"About",
+					"about",
+					"A place to share your knowledge",
+					"app",
+					"app.layout",
+					"app-views",
+					"Home",
+					"home",
+					"Home",
+					"home",
+					"Home",
+					"home",
+					"Home",
+					"home",
+					"js",
+					"templateCache",
+					"AppConstants",
+					"constants",
+					"defineStatementsDiv",
+					"btnOpenAddStatementsModal",
+					"Income statement",
+					"defineStatement",
+					"ManageStatementsGrid",
+					"4",
+					"multi-header",
+					"ManageStatementsGrid",
+					"managePeriodDiv",
+					"trialBalanceTabStrip",
+					"btnOpenAddPeriodsModal",
+					"Manage",
+					"defineFinancialStatementView\\.addNewRow",
+					"defineFinancialStatementView",
+					"default",
+					"rc.4",
+					"a-long-arrow-right",
+					"k-l",
+					"k-lin",
+					"text-right",
+					"--text-right",
+					"k-header--text-right",
+					"gti-pills gti-pills__border pull-right",
+					"506",
+					"icon",
+					"fa",
+					"fa-long-arrow-right",
+					"fa",
+					"fa-long-arrow-right",
+					".fa-long-arrow-right:before",
+					"fa-long-arrow-right",
+					"rtl",
+					"header",
+					"-cell",
+					"radio",
+					"input[disabled]",
+					"disab",
+					".gti-radio__virtual .gti-icn",
+					"gti-radio__virtual ",
+					"--lg",
+					"grid ",
+					"kendo",
+					"overr",
+					"kendo",
+					"overri",
+					"over",
+					"kend",
+					"tabstripRiskFactor",
+					"modalRiskFactor",
+					"header",
+					"--sm",
+					"selected",
+					"newDisclosure",
+					"modalRiskFactor",
+					"flyoutPushContentFinancial",
+					"Financial stat",
+					"fs-dashboard",
+					"Scope",
+					"gridDisclsoures",
+					"sub-header",
+					"icon",
+					"__right",
+					"-tabstrip",
+					"tabstrip",
+					"tabstrp",
+					"tabstr",
+					"sourcemaps",
+					"sass",
+					"right",
+					"__right",
+					"title",
+					"panel__title",
+					"sass",
+					"notify",
+					"input",
+					"fieldset",
+					"kendo",
+					"gti",
+					"previousElementSibling",
+					"form-group1",
+					"col-lg-4",
+					"col-md-6 col-sm-6 ",
+					"col-sm-6",
+					"col-md-6",
+					"@media screen and (min-width: 768px){\n  p{\n  	color: green;\n  }\n}",
+					"·         ",
+					"     ",
+					"·         ",
+					"     ",
+					"·         ",
+					"       ",
+					"·         ",
+					"Check",
+					"Check th",
+					"     ",
+					"·         ",
+					"     ",
+					"       ",
+					"         ",
+					"·         "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"gti-pills gti-pills--sm gti-pills__border pull-right",
+					"gti-h3",
+					"title",
+					"'",
+					"activity",
+					"'",
+					"templateDetailvm.templateDetail",
+					"'",
+					"favorite",
+					"activity",
+					"../Content",
+					"\"../Content",
+					"Open Sans",
+					"hardDiskAccordian",
+					"'",
+					" ",
+					"$1",
+					"$2",
+					"PPPP",
+					"hk"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\test\\angular-es6-sample-master"
+				},
+				{
+					"path": "D:\\test\\productionready-node-api-master"
+				},
+				{
+					"path": "D:\\test\\conduit-angularjs-final-master"
+				},
+				{
+					"path": "D:\\test\\ngdemo"
+				},
+				{
+					"path": "D:\\hk\\GITHUB\\ngapp-template"
+				},
+				{
+					"path": "D:\\hk\\GITHUB\\ngdemo"
+				},
+				{
+					"path": "D:\\test\\angular-es6-example-master"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/hk/GITHUB/ngdemo/src/app/home/home.controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hk/GITHUB/ngdemo/src/app/services/user.service.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 360,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15869,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												183,
+												189
+											],
+											[
+												256,
+												262
+											],
+											[
+												297,
+												303
+											],
+											[
+												606,
+												612
+											],
+											[
+												735,
+												741
+											],
+											[
+												756,
+												762
+											],
+											[
+												788,
+												794
+											],
+											[
+												830,
+												836
+											],
+											[
+												957,
+												963
+											],
+											[
+												1041,
+												1047
+											],
+											[
+												1100,
+												1106
+											],
+											[
+												1227,
+												1233
+											],
+											[
+												1311,
+												1317
+											],
+											[
+												1399,
+												1405
+											],
+											[
+												1456,
+												1462
+											],
+											[
+												1513,
+												1519
+											],
+											[
+												1765,
+												1771
+											],
+											[
+												1825,
+												1831
+											],
+											[
+												1953,
+												1959
+											],
+											[
+												1968,
+												1974
+											],
+											[
+												1979,
+												1985
+											],
+											[
+												2194,
+												2200
+											],
+											[
+												2220,
+												2226
+											],
+											[
+												2278,
+												2284
+											],
+											[
+												2290,
+												2296
+											],
+											[
+												3162,
+												3168
+											],
+											[
+												3225,
+												3231
+											],
+											[
+												3268,
+												3274
+											],
+											[
+												9296,
+												9302
+											],
+											[
+												9357,
+												9363
+											],
+											[
+												14463,
+												14469
+											],
+											[
+												14628,
+												14634
+											],
+											[
+												14684,
+												14690
+											],
+											[
+												14793,
+												14799
+											],
+											[
+												14809,
+												14815
+											],
+											[
+												14822,
+												14828
+											],
+											[
+												15084,
+												15090
+											],
+											[
+												15141,
+												15147
+											],
+											[
+												15311,
+												15317
+											],
+											[
+												15334,
+												15340
+											],
+											[
+												15456,
+												15462
+											],
+											[
+												15565,
+												15571
+											],
+											[
+												15590,
+												15596
+											],
+											[
+												15712,
+												15718
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										15819,
+										15819
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 2,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ 	].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10144.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/test/conduit-angularjs-final-master/src/js/components/buttons/follow-btn.component.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 914,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										111,
+										129
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 288.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,836,36,104,1600",
+			"project": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"route",
+						"nodeauth\\config\\routes.js"
+					],
+					[
+						"meet",
+						"public\\js\\meetings\\meetings.html"
+					],
+					[
+						"tegictr",
+						"public\\js\\auth\\RegistrationCtrl.js"
+					],
+					[
+						"ctr",
+						"public\\js\\controllers\\AppCtrl.js"
+					],
+					[
+						"menutem",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuTemplate.html"
+					],
+					[
+						"framtem",
+						"ng-framework\\public\\ext-modules\\hkFramework\\hkFrameworkTemplate.html"
+					],
+					[
+						"appcs",
+						"ng-framework\\public\\css\\app.css"
+					],
+					[
+						"ppctrl",
+						"ng-framework\\public\\js\\controllers\\AppCtrl.js"
+					],
+					[
+						"index",
+						"ng-framework\\public\\index.html"
+					],
+					[
+						"appco",
+						"ng-framework\\public\\js\\appConfig.js"
+					],
+					[
+						"appjs",
+						"ng-framework\\public\\js\\appModule.js"
+					],
+					[
+						"dataser",
+						"ng-framework\\public\\js\\services\\dataService.js"
+					],
+					[
+						"temtem",
+						"ng-framework\\public\\js\\widgets\\temperature\\temperatureTemplate.html"
+					],
+					[
+						"temdire",
+						"ng-framework\\public\\js\\widgets\\temperature\\temperatureDirective.js"
+					],
+					[
+						"temcss",
+						"ng-framework\\public\\js\\widgets\\temperature\\temperature.css"
+					],
+					[
+						"dataserv",
+						"ng-framework\\public\\js\\services\\dataService.js"
+					],
+					[
+						"tem",
+						"public\\js\\widgets\\temprature\\temprature.css"
+					],
+					[
+						"menucss",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenu.css"
+					],
+					[
+						"hkmenu",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuTemplate.html"
+					],
+					[
+						"menuco",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuController.js"
+					],
+					[
+						"hkmecss",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenu.css"
+					],
+					[
+						"groute",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupTemplate.html"
+					],
+					[
+						"hkmenugr",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupDirective.js"
+					],
+					[
+						"group",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupDirective.js"
+					],
+					[
+						"hkm",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuGroupTemplate.html"
+					],
+					[
+						"hkme",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuController.js"
+					],
+					[
+						"hkmenuit",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuItemDirective.js"
+					],
+					[
+						"item",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuItemTemplate.html"
+					],
+					[
+						"fr",
+						"ng-framework\\public\\ext-modules\\hkFramework\\hkFrameworkController.js"
+					],
+					[
+						"inde",
+						"ng-framework\\public\\index.html"
+					],
+					[
+						"hkfr",
+						"ng-framework\\public\\ext-modules\\hkFramework\\hkFrameworkController.js"
+					],
+					[
+						"",
+						"ng-framework\\public\\ext-modules\\hkMenu\\hkMenuTemplate.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 329.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

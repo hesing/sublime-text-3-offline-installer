@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS Snippets",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JSX",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SCSS",
+		"Theme - Soda",
+		"TypeScript"
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Light 3.sublime-theme",
+	"typescript_plugin_tsc_version": "1.7.3"
+}

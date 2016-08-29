@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label class="col-md-4 control-label required" for="ms_WOReceived" aria-required="true">WO Received</label>
+    <div class="col-md-8 alignWithInput">
+        <label class="radio-inline">
+            <input type="radio" data-bind="checked: formData.ms_WOReceived" checked="" value="no" name="ms_WOReceived" id="r1"> No
+        </label>
+        <label class="radio-inline">
+            <input type="radio" data-bind="checked: formData.ms_WOReceived" value="yes" name="ms_WOReceived" id="r1"> Yes
+        </label>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sss-radio</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

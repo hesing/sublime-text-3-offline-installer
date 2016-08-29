@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="ms_DateOfReview" class="col-md-4 control-label required">ReviewDate</label>
+    <div class="col-md-8">
+        <div class="input-group simplify-input-group" data-bind="datetimepicker: formData.ms_DateOfReview">
+            <input type="date" class="form-control" id="ms_DateOfReview" name="ms_DateOfReview" data-bind="value: formData.ms_DateOfReview">
+            <span class="input-group-addon">
+                <button type="button">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                </button>
+            </span>
+        </div>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sss-date</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

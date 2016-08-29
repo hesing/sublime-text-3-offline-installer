@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="ms_virtuosowebprojectnameid" class="col-md-4 control-label">Virtuosoweb</label>
+    <div class="col-md-8">
+        <div class="input-group simplify-input-group">
+            <input type="search" class="form-control" id="ms_virtuosowebprojectnameid" name="ms_virtuosowebprojectnameid" autocomplete="off" data-bind="value: ms_virtuosowebprojectnameid">
+            <span class="input-group-addon remove-addon" data-bind="visible: formData.ms_virtuosowebprojectnameid">
+                <button type="button" data-bind="click: resetField.bind($data, 'ms_virtuosowebprojectnameid')">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </button>
+            </span>
+            <span class="input-group-addon">
+                <button type="button">
+                    <span class="glyphicon glyphicon-search"></span>
+                    <i class="fa fa-spinner fa-spin"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sss-lookup</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
